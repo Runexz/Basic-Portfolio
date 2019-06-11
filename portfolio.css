@@ -42,7 +42,7 @@ h2, h3 {
     font-size: 22px;
 }
 
-/*header*/
+/* masterheader */
 
 #masterheader {
     background: rgb(5, 5, 5);
@@ -112,7 +112,7 @@ nav a:first-child {
     margin-right: 25px;
 }
 
-/*sidebars*/
+/* sidebars to the right*/
 .sidebar {
     background:#fff;
     padding: 30px;
@@ -141,7 +141,7 @@ h3, .sidebar, h2 {
     margin-right: 0;
 }
 
-/*footer*/
+/* footer with copyright */
 
 footer {
     background: rgb(3, 3, 3);
@@ -154,7 +154,7 @@ footer {
     text-align: center;
 }
 
-/*portfolio*/
+/* portfolio with images */
 .work {
     width: 274px;
     overflow: auto;
@@ -187,7 +187,7 @@ footer {
     font-weight: 300;
 }
 
-/*contacts*/
+/* contacts form to the right */
 
 #contact-form ul {
     margin-bottom: 20px;
